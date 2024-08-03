@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Shihan.
-- 👀 I’m interested in JavaScript, HTML and CSS.
+- 👀 I’m interested in Front-end-developement, web based project!
 - 🌱 I’m currently learning Java, Firebase, and more!
 - 💡 I love exploring new technologies and experimenting with creative projects!
-
-  <!---- 📫 How to reach me:  ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’ve committed more code to my repositories than I’ve had cups of coffee! --->
-
+  
+- ⚡ Fun fact: When I’m not working on new projects, I love diving back into my older ones to improve and optimize them. There’s always something new to learn and enhance! 
+  <!---- 📫 How to reach me:  ... --->
 <!---
 ShihanRishad/ShihanRishad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
