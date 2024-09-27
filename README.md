@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img height="60px" alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?&font=Nova+Mono&size=25&duration=3000&pause=2000&lines=Fron-end+enthusiast;Tech+Explorer;Deeper+Diver;Web+Developer"></a>
+<a href="https://git.io/typing-svg"><img height="60px" alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?&font=Nova+Mono&size=25&duration=3000&pause=2000&lines=Fron-end+enthusiast;Tech+Explorer;JavaScrpit+worker;Web+Developer"></a>
 
 - 👋 Hi, I’m Shihan.
 - 👀 I’m interested in Front-end-developement, web based projects.
