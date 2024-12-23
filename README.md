@@ -33,7 +33,7 @@
 ## 🛠️ Technologies and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,firebase,supabase,github,git,bootstrap,tailwind,nodejs,vercel,netlify,python,flask" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,flutter,dart,firebase,supabase,github,git,bootstrap,tailwind,nodejs,npm,express,jquery,vercel,netlify,nix,svg,py,flask,figma,vscode,bash,threejs,powershell,wordpress,gmail&theme=dark&perline=6" alt="Tech Stack" />
 </div>
 
 <!-- ## 🚀 Projects
