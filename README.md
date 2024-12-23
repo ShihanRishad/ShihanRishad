@@ -57,9 +57,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShihanRishad&show_icons=true&theme=radical" alt="Shihan Rishad's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShihanRishad&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShihanRishad&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShihanRishad&show_icons=true&theme=radical" alt="My GitHub stats" width="60%" /><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShihanRishad&theme=radical" alt="GitHub Streak" width="60%" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShihanRishad&layout=compact&theme=radical" alt="Top Langs" width="50%" />
 </p>
 
 ## Connect 📫
