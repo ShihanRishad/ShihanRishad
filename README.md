@@ -65,8 +65,8 @@
 ## Connect 📫
 
 <p align="left">
-  <a href="mailto:shihanrishad@gmail.com">Email: shihanrishad@gmail.com</a><br>
-  <a href="https://www.sololearn.com/en/profile/31317959">Sololearn: Shihan</a>
+  <a href="mailto:shihanrishad@gmail.com" target="_blank" >Email: shihanrishad@gmail.com</a><br>
+  <a href="https://www.sololearn.com/en/profile/31317959" target="_blank" >Sololearn: Shihan</a>
 </p>
 
 <p align="center">
