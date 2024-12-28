@@ -13,7 +13,7 @@
 ## 🌟 About Me
 
 <div align="center">
-  <img src="image.jpg" />
+  <img src="image.jpg" style="border-radius:10px"/>
 </div>
 
 <div align="left">
