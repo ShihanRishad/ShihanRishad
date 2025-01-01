@@ -10,11 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=ShihanRishad&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-## 🌟 About Me
-
 <div align="center">
   <img src="image.jpg" style="border-radius:10px"/>
 </div>
+
+## 🌟 About Me
+
 
 <div align="left">
   
