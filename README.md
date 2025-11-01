@@ -19,9 +19,9 @@
 
 <div align="left">
   
-  ### 👀 I’m interested in Front-end, Full-stack development and app based projects.
+  ### 👀 I'm interested in Front-end, Full-stack development and app based projects.
   
-  ### 🌱 I’m currently learning React, Flutter and more!
+  ### 🌱 I'm currently learning React, Flutter and more!
   
   ### 💡 I love exploring new technologies and experimenting with creative projects.
   
@@ -34,7 +34,7 @@
 ## 🛠️ Technologies and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,flutter,dart,firebase,supabase,github,git,bootstrap,tailwind,nodejs,npm,express,jquery,vercel,netlify,nix,svg,py,flask,figma,vscode,bash,threejs,powershell,wordpress,gmail&theme=dark&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,flutter,dart,firebase,supabase,github,git,bootstrap,tailwind,nodejs,npm,express,jquery,vercel,netlify,nix,svg,py,flask,figma,vscode,bash,threejs,powershell,wordpress,gmail,arduino&theme=dark&perline=7" alt="Tech Stack" />
 </div>
 
 <!-- ## 🚀 Projects
